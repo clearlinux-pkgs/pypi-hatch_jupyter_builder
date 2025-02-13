@@ -7,7 +7,7 @@
 #
 Name     : pypi-hatch_jupyter_builder
 Version  : 0.9.1
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/5b/f6/8c8b353e7c6476ca28caea0408b0a3778d8849cda16f3e8e8f3145162dae/hatch_jupyter_builder-0.9.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5b/f6/8c8b353e7c6476ca28caea0408b0a3778d8849cda16f3e8e8f3145162dae/hatch_jupyter_builder-0.9.1.tar.gz
 Summary  : A hatch plugin to help build Jupyter packages
